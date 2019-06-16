@@ -1,4 +1,4 @@
-package flow;
+package study.java9.flow;
 
 import org.junit.Test;
 
