@@ -2,31 +2,31 @@
 - Java9 의 기능들을 예제 중심으로 테스트 해보기
 - 기능 별 참고자료를 통한 스터디
 
-#### **Module System (Jigsaw)**
+#### Module System (Jigsaw) - 1주차
 - 필요한 모듈만 사용해 경량회된 이미지를 만드는 방법 
 
 > https://www.journaldev.com/13106/java-9-modules
 > https://www.baeldung.com/project-jigsaw-java-modularity
 
-#### Reactive Streams
+#### Reactive Streams - 2주차
 - 스트리밍으로 비동기 데이터를 처리하는 표준
  
 > https://www.baeldung.com/java-9-reactive-streams
 > https://www.journaldev.com/20723/java-9-reactive-streams
  
-#### HTTP 2 Client(With Java11)
+#### HTTP 2 Client(With Java11) - 3주차
 - HTTP 2 클라이언트 지원
 
 > https://www.baeldung.com/java-9-http-client
 
-#### REPL (Read Eval Print Loop) - JShell<br>
+#### REPL (Read Eval Print Loop) - JShell<br> - 4주차
 - 소스코드를 빠르게 테스트 할 수 있는 문장 해석 도구
     
 > https://www.baeldung.com/java-9-repl
 > https://www.journaldev.com/9879/java-repl-jshell
 > https://www.journaldev.com/12938/jshell-java-shell
 
-#### Factory Methods for Immutable List, Set, Map and Map.Entry<br>
+#### Factory Methods for Immutable List, Set, Map and Map.Entry<br> - 4주차
 - 변경 불가능한 Collection 인스턴스를 생성하는 Factory Method 를 제공
  
 > https://www.baeldung.com/java-9-collections-factory-methods
@@ -34,7 +34,7 @@
 > https://www.journaldev.com/12984/javase9-factories-for-immutable-set
 > https://www.journaldev.com/13057/javase9-factory-methods-immutable-map
  
-#### Milling Project Coin
+#### Milling Project Coin - 4주차
 - 조그마한 언어적 변화들
 
 1) Allow @SafeVargs on private instance methods
@@ -48,7 +48,7 @@
 5) private methods in interface
     > https://www.journaldev.com/12850/java-9-private-methods-interfaces
 
-#### Stream API, CompletableFuture API, Optional Class Improvements,
+#### Stream API, CompletableFuture API, Optional Class Improvements - 4주차
 - API 개선 및 강화
 
 1) Stream
