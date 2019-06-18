@@ -19,14 +19,14 @@
 
 > https://www.baeldung.com/java-9-http-client
 
-#### REPL (Read Eval Print Loop) - JShell<br> - 4주차
+#### REPL (Read Eval Print Loop) - JShell - 4주차
 - 소스코드를 빠르게 테스트 할 수 있는 문장 해석 도구
     
 > https://www.baeldung.com/java-9-repl
 > https://www.journaldev.com/9879/java-repl-jshell
 > https://www.journaldev.com/12938/jshell-java-shell
 
-#### Factory Methods for Immutable List, Set, Map and Map.Entry<br> - 4주차
+#### Factory Methods for Immutable List, Set, Map and Map.Entry - 4주차
 - 변경 불가능한 Collection 인스턴스를 생성하는 Factory Method 를 제공
  
 > https://www.baeldung.com/java-9-collections-factory-methods
