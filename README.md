@@ -2,7 +2,7 @@
 - Java9 의 기능들을 예제 중심으로 테스트 해보기
 - 기능 별 참고자료를 통한 스터디
 
-#### <span style="color:efefef;">Module System (Jigsaw)</span>
+#### <span style="color:#3a3a3a;">Module System (Jigsaw)</span>
 - 필요한 모듈만 사용해 경량회된 이미지를 만드는 방법 
 
 > https://www.journaldev.com/13106/java-9-modules
