@@ -1,4 +1,4 @@
-package study.java9.flow;
+package java9.flow;
 
 import java.util.LinkedList;
 import java.util.List;
