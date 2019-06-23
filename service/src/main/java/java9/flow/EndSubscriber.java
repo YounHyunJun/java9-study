@@ -8,6 +8,7 @@ public class EndSubscriber<T> implements Flow.Subscriber<T> {
 
     private Flow.Subscription subscription;
     public List<T> consumedElements = new LinkedList<>();
+    private boolean completed = false;
 
     public void onSubscribe(Flow.Subscription subscription) {
         this.subscription = subscription;
@@ -25,5 +26,10 @@ public class EndSubscriber<T> implements Flow.Subscriber<T> {
 
     public void onComplete() {
         System.out.println("Done");
+        completed = true;
+    }
+
+    public boolean isCompleted() {
+        return completed;
     }
 }
