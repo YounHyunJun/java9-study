@@ -5,7 +5,7 @@
 #### Module System (Jigsaw) - 1주차
 - 필요한 모듈만 사용해 경량회된 이미지를 만드는 방법 
 
-> https://github.com/YounHyunJun/java9-study/blob/master/summary/Jigsaw.md
+> [Java Module 설명][https://github.com/YounHyunJun/java9-study/blob/master/summary/Jigsaw.md]
 
 #### Reactive Streams - 2주차
 - 스트리밍으로 비동기 데이터를 처리하는 표준
