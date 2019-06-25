@@ -6,7 +6,7 @@
 > 2. Java SE Platform 구현체와 JDK 의 보안과 유지보수성을 향상시킨다.
 > 3. 애플리케이션 성능을 향상시킨다.
 > 4. 소형 디바이스나 클라우드 개발에서 Java SE Platform, JDK 를 축소시켜 사용할 수 있도록 한다.
-> <br>[OpenJDK][https://openjdk.java.net/projects/jigsaw/]
+> <br>[OpenJDK 참조](https://openjdk.java.net/projects/jigsaw/)
 
 ### 설명
 
