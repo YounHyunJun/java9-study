@@ -1,10 +1,10 @@
-package java9.flow;
+package java9.reactive.flow.baeldung;
 
 import java.util.LinkedList;
 import java.util.List;
 import java.util.concurrent.Flow;
 
-public class EndSubscriber<T> implements Flow.Subscriber<T> {
+public class  EndSubscriber<T> implements Flow.Subscriber<T> {
 
     private Flow.Subscription subscription;
     public List<T> consumedElements = new LinkedList<>();

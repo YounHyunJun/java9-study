@@ -1,14 +1,12 @@
-package java9.flow;
+package java9.flow.baeldung;
 
-import org.assertj.core.api.ListAssert;
+import java9.reactive.flow.baeldung.EndSubscriber;
 import org.junit.Test;
 
 import java.util.List;
 import java.util.concurrent.SubmissionPublisher;
-import java.util.concurrent.TimeUnit;
 
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.assertj.core.api.Assertions.setMaxLengthForSingleLineDescription;
 import static org.awaitility.Awaitility.await;
 
 
