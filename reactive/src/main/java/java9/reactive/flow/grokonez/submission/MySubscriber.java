@@ -55,7 +55,7 @@ public class MySubscriber implements Flow.Subscriber<Object> {
 
     @Override
     public void onError(Throwable t) {
-        log("Error: " + t.getMessage())
+        log("Error: " + t.getMessage());
     }
 
     @Override
